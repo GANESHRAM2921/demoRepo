@@ -1,3 +1,4 @@
+
 public class Main{
     public static void main(String args[]){
         int arr[] = {12,3,56,26,4,45,23,74,34,6};
@@ -6,6 +7,8 @@ public class Main{
             // printing elements with it's product with 2
             // conflicting
             //hi browni
+            // hi brownikha
+            // hello
         }
     }
 }
