@@ -5,7 +5,11 @@ public class Main{
         for(int i : arr){
             System.out.println(i + " ");
             // printing elements with it's product with 2
+<<<<<<< HEAD
             // bye brownikha
+=======
+            // hi brownikha
+>>>>>>> cf0e4836156dfed17baab875d15a9d2ca84d6c25
         }
     }
 }
