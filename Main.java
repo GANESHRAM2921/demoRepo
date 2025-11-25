@@ -5,6 +5,7 @@ public class Main{
         for(int i : arr){
             System.out.println(i + " " + 2 * i);
             // printing elements with it's product with 2
+            // bye brownikha
         }
     }
 }
