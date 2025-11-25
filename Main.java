@@ -5,6 +5,7 @@ public class Main{
             System.out.println(i + " " + 2 * i);
             // printing elements with it's product with 2
             // conflicting
+            //hi browni
         }
     }
 }
