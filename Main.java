@@ -3,7 +3,7 @@ public class Main{
     public static void main(String args[]){
         int arr[] = {12,3,56,26,4,45,23,74,34,6};
         for(int i : arr){
-            System.out.println(i + " ");
+            System.out.println(i + " " + 1 * i);
         }
     }
 }
